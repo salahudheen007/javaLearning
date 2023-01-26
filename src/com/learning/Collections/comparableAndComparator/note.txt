@@ -1,0 +1,5 @@
+to compare to object we need implement comparable class and override compareto method based on our needs
+
+\but , if multiple type of comparison needed, we cannot use this method;(like by mark, name, age , separately)
+
+in that case we use comparator .

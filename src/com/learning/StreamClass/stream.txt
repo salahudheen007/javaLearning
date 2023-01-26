@@ -1,0 +1,11 @@
+streams
+
+intermediate operations
+    * map  -- to map each element
+    * filter --- return stream of elements satusfying the predicate condition
+    * sorted--   to sort the stream ,(Comparator)
+
+terminal operations
+    * collect  -- used to collect the stream
+    * foreach
+    * reduce

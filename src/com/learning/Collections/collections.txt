@@ -1,0 +1,48 @@
+COLLECTIONS
+
+
+1.List (Imterface)
+    * follow insertion order
+    * allow duplicate value
+
+
+2.Set  (Interface)
+    * not alloww duplicate value
+
+3. Map (Interface)
+    * key-value pair
+    * unique key
+
+
+4.queue
+    * first in first out
+
+
+LIST
+    1.ArrayList
+        * follow insertion order
+    2.LinkedList
+        * Doubly linked elements
+        * no need of uniform storage
+        * each element keep nodes for next and previous elemnts
+    3.Vetor
+        * all the methods are synced
+
+SET
+    1.HashSet
+        *not ordered, not sorted
+        * unique value
+    2.LinkedHashSet
+        *ordered(insertion order)
+    3.TreeSet
+        *sorted(ascending)
+MAP
+    1.HashMap
+        *not ordered, not sorted
+        * can have one null
+        * no duplicate key
+    2.LinkedHashMap
+        *ordered(insertion order)
+    3.TreeMAp
+        *Sorted(based on keys)
+        *no null keys allowed

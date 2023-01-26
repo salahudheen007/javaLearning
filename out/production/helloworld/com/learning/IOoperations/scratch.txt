@@ -1,0 +1,28 @@
+io operations
+
+1.sream
+2.non stream'
+
+
+STream
+1.create/open stream
+2.read/ write
+3.close stream
+
+there are two type stream
+1. byte stream  ->read data byte by byte(8 bit)
+2.charecter stream  -> read charecter by charecter(16 bit)
+
+
+
+1.inputStream
+2. ouputStream
+
+1.Filereader
+2.FileWrite
+
+1.FileInputStream
+2.FileoutputStream
+
+1.Reader
+2.Writer
